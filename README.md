@@ -1,7 +1,7 @@
 ![CAPA LINKEDIN_PERFIL PESSOAL03](https://user-images.githubusercontent.com/52717632/123512102-9546b200-d653-11eb-8b6c-f6c1dd19143e.png)
 # Projeto Stranger Things - Back-End :zombie:
 
-Esta é a primeira parte do projeto Stranger Things, para ver o Front-End, basta acessar [aqui]().
+Esta é a primeira parte do projeto Stranger Things, para ver o Front-End, basta acessar [aqui](https://github.com/AndersonSilva94/project-stranger-things-frontend).
 
 ## Objetivos a serem alcançados no decorrer da construção do projeto:
 
